@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Margarette Maiztegui",
+      "titles": [ "Front-end Developer", "UI/UX Developer", "Power Apps Developer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/margamaiztegui",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/mrgxxm",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Profile.jpg"
     },
     "skills": {
       "icons": [
@@ -27,16 +27,6 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
@@ -61,6 +51,25 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    },
+    "designskills": {
+      "icons": [
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        },
+        {
+          "name": "Canva",
+          "class": "devicon-canva-original",
+          "level": "60"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-line",
           "level": "60"
         }
       ]

@@ -89,6 +89,10 @@ header h1 {
 	width: 100%;
 }
 
+.flex-center {
+	justify-content: center;
+}
+
 .slider-image {
 	border: 5px solid #D7CAAA;
 }
@@ -161,6 +165,10 @@ header h1 {
 	box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
 }
 
+.icon-white {
+	color: white;
+}
+
 .project-title-settings {
 	margin-top: 5%;
 	font: 18px/24px 'opensans-bold', sans-serif;
@@ -172,7 +180,7 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 300px;
 }
 
 .polaroid span {
@@ -386,7 +394,7 @@ header h1 {
 
 .section-title {
 	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-bottom: 3%;
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
