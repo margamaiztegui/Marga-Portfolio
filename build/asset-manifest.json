@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Marga-Portfolio/static/css/main.f1d4b058.chunk.css",
-    "main.js": "/Marga-Portfolio/static/js/main.38ad8acf.chunk.js",
-    "main.js.map": "/Marga-Portfolio/static/js/main.38ad8acf.chunk.js.map",
+    "main.css": "/Marga-Portfolio/static/css/main.439b396d.chunk.css",
+    "main.js": "/Marga-Portfolio/static/js/main.edc329c2.chunk.js",
+    "main.js.map": "/Marga-Portfolio/static/js/main.edc329c2.chunk.js.map",
     "runtime-main.js": "/Marga-Portfolio/static/js/runtime-main.25958faa.js",
     "runtime-main.js.map": "/Marga-Portfolio/static/js/runtime-main.25958faa.js.map",
     "static/css/2.d64471e2.chunk.css": "/Marga-Portfolio/static/css/2.d64471e2.chunk.css",
     "static/js/2.c8fa6795.chunk.js": "/Marga-Portfolio/static/js/2.c8fa6795.chunk.js",
     "static/js/2.c8fa6795.chunk.js.map": "/Marga-Portfolio/static/js/2.c8fa6795.chunk.js.map",
     "index.html": "/Marga-Portfolio/index.html",
-    "precache-manifest.1478189666e2cf9cde5a8c022c8972d6.js": "/Marga-Portfolio/precache-manifest.1478189666e2cf9cde5a8c022c8972d6.js",
+    "precache-manifest.69803c6b0cc220309ead7f8b470c735a.js": "/Marga-Portfolio/precache-manifest.69803c6b0cc220309ead7f8b470c735a.js",
     "service-worker.js": "/Marga-Portfolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/Marga-Portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.f1d4b058.chunk.css.map": "/Marga-Portfolio/static/css/main.f1d4b058.chunk.css.map",
+    "static/css/main.439b396d.chunk.css.map": "/Marga-Portfolio/static/css/main.439b396d.chunk.css.map",
     "static/js/2.c8fa6795.chunk.js.LICENSE.txt": "/Marga-Portfolio/static/js/2.c8fa6795.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25958faa.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.c8fa6795.chunk.js",
-    "static/css/main.f1d4b058.chunk.css",
-    "static/js/main.38ad8acf.chunk.js"
+    "static/css/main.439b396d.chunk.css",
+    "static/js/main.edc329c2.chunk.js"
   ]
 }

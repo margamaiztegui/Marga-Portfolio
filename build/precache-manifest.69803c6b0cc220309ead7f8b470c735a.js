@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50e221cd28f6f1d9e25526f6a7588d5e",
+    "revision": "058a7d5c7af656c36d7642ac9419d044",
     "url": "/Marga-Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Marga-Portfolio/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "d798d766157dc52ff1c5",
-    "url": "/Marga-Portfolio/static/css/main.f1d4b058.chunk.css"
+    "revision": "d6c7f6aaebea3d60a5fb",
+    "url": "/Marga-Portfolio/static/css/main.439b396d.chunk.css"
   },
   {
     "revision": "51c33fd605ecf969516e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Marga-Portfolio/static/js/2.c8fa6795.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d798d766157dc52ff1c5",
-    "url": "/Marga-Portfolio/static/js/main.38ad8acf.chunk.js"
+    "revision": "d6c7f6aaebea3d60a5fb",
+    "url": "/Marga-Portfolio/static/js/main.edc329c2.chunk.js"
   },
   {
     "revision": "fa3189d7887b356e641e",
