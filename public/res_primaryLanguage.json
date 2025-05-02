@@ -17,7 +17,7 @@
         "description": "Therapeutic Guidelines is an Australian health-related organization and this is the project I was involved with them. The website served as the organization's forum for health professionals both in Australia and worldwide. This was developed using Power Platform (Power Pages), ReactJS, CSS / SCSS, and Bootstrap.",
         "images": [
           "images/portfolio/tg/landing-page.png",
-          "/images/portfolio/tg/updates.png"
+          "images/portfolio/tg/updates.png"
         ],
         "url": "",
         "technologies": [
